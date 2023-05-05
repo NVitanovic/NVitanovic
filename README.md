@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=NVitanovic&count_private=true&show_icons=true&theme=gruvbox" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=NVitanovic&count_private=true&show_icons=true&theme=algolia" width="380">
 
 👨🏻‍💻 I'm Nikola Vitanović, 
 
