@@ -4,9 +4,9 @@
 
 👨🏻‍💻 I'm Nikola Vitanović, 
 
-🛠️ DevOps enginner by day and 
+🛠️ DevOps engineer by day and 
 
-🔐 Cyber security enthusiast by night.
+🔐 Cybersecurity enthusiast by night.
 
 <hr>
 
