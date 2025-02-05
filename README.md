@@ -10,7 +10,7 @@
 
 <hr>
 
-🎬 Creating [Youtube contnet](https://www.youtube.com/@NVitanovic) since 2012.
+🎬 Creating [Youtube content](https://www.youtube.com/@NVitanovic) since 2012.
 
 📚 Masters degree in Computer Science at Faculty of Electronic Enginnering in Niš Serbia.
 
